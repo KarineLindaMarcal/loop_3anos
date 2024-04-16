@@ -1,5 +1,14 @@
-h1 {color: pink;
+h1 {color: rgb(255, 0, 200);
 }
+h2 {color: #000000;
+}
+body {background-color: beige;
+}
+h3 {text-align: left;
+}
+h2 {text-align: center;
+}
+
 #texto-animado {
     font-family: 'gotham', sans-serif;
     font-size: 53px;

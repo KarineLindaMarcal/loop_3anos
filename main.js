@@ -17,7 +17,7 @@ function verificarTime() {
       alert("Não é isso! Tente novamente.");
     }
   }
-}
+
 
 
 // Chamada da função para iniciar o processo
