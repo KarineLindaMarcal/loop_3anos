@@ -5,7 +5,7 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Qual os melhor nail?");
+    var respostaTime = prompt("Qual a melhor nail?");
   
   }
   
