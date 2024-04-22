@@ -9,7 +9,7 @@ function verificarTime() {
   
   }
   
-    if (respostaTime.toLowerCase() === "Duda Nail")
+    if (respostaTime.toLowerCase() === "DudaSantos")
     {
       alert("Isso mesmo! Ela é a melhor de todas!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
