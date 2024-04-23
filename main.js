@@ -5,7 +5,7 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Qual nome da ecola?");
+    var respostaTime = prompt("Qual nome da escola?");
   
   }
   
