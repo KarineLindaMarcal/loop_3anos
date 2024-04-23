@@ -11,7 +11,7 @@ function verificarTime() {
   
     if (respostaTime.toLowerCase() === "emilio")
     {
-      alert("Isso mesmo! Ela é a melhor de todas!");
+      alert("Isso mesmo!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
       alert("Não é isso! Tente novamente.");
