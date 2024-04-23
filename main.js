@@ -5,11 +5,11 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Qual a melhor nail?");
+    var respostaTime = prompt("Qual nome da ecola?");
   
   }
   
-    if (respostaTime.toLowerCase() === "DudaSantos")
+    if (respostaTime.toLowerCase() === "emilio")
     {
       alert("Isso mesmo! Ela é a melhor de todas!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
